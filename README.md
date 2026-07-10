@@ -53,6 +53,14 @@ I am a dedicated Full Stack Developer with a strong foundation in Data Structure
 
 ---
 
+## 📊 GitHub Activity
+
+<div align="center">
+  <img src="https://github-contribution-stats.vercel.app/api?username=its-gagandeep-singh&theme=github_dark" alt="GitHub Contribution Stats" />
+</div>
+
+---
+
 ## Professional Development
 
 **Currently Focused On:**
