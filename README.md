@@ -11,7 +11,7 @@
 
 ## About Me
 
-I am a dedicated Full Stack Developer with a strong foundation in Data Structures, Algorithms, and modern web technologies. I specialize in building scalable, efficient web applications with a focus on clean code and best practices. Passionate about leveraging AI to solve real-world problems and create meaningful user experiences.
+I am a dedicated Full Stack Developer with a strong foundation in Data Structures, Algorithms, and modern web technologies. I specialize in building scalable, efficient web applications with a focus on clean design and performance.
 
 **Key Strengths:**
 - Full-stack web application development
@@ -56,7 +56,7 @@ I am a dedicated Full Stack Developer with a strong foundation in Data Structure
 ## 📊 GitHub Activity
 <div align="center">
   <a href="https://github.com/its-gagandeep-singh">
-    <img src="https://metrics.lecoq.io/its-gagandeep-singh?base=0&plugin_languages=1&plugin_languages=wheel=1" alt="Gagandeep's Activity Wheel" width="400" />
+    <img src="https://metrics.lecoq.io/its-gagandeep-singh?base=0&plugin_languages=1&plugin_languages=wheel=1" alt="Gagandeep's Activity Wheel" width="400" height="400" style="display:block; margin:0 auto;" />
   </a>
 </div>
 ---
