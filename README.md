@@ -56,20 +56,20 @@ I am a dedicated Full Stack Developer with a strong foundation in Data Structure
 ## GitHub Statistics
 
 <div align="center">
-  
-[![Gagandeep's GitHub Stats](https://github-readme-stats.vercel.app/api?username=its-gagandeep-singh&show_icons=true&theme=tokyonight&count_private=true)](https://github.com/its-gagandeep-singh)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=its-gagandeep-singh&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&line_height=27)
 
 </div>
 
 <div align="center">
-  
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=its-gagandeep-singh&layout=compact&theme=tokyonight)](https://github.com/its-gagandeep-singh)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=its-gagandeep-singh&theme=github_dark&layout=compact&langs_count=10)
 
 </div>
 
 <div align="center">
-  
-[![GitHub Streak](https://streak-stats.demolab.com/?user=its-gagandeep-singh&theme=tokyonight)](https://github.com/its-gagandeep-singh)
+
+![Streak Stats](https://github-readme-streak-stats.herokuapp.com?user=its-gagandeep-singh&theme=github-dark&hide_border=true&stroke=0000FF)
 
 </div>
 
@@ -94,7 +94,7 @@ I am a dedicated Full Stack Developer with a strong foundation in Data Structure
 ## Connect With Me
 
 <div align="center">
-  
+
 | Platform | Link |
 |----------|------|
 | **LinkedIn** | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin) |
