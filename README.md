@@ -1,25 +1,13 @@
 <div align="center">
   <h1>
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&duration=1500&pause=1500&color=00FF00&center=true&vCenter=true&lines=Gagandeep+Singh;Pursuing+Full+Stack+Developer+with+AI+Integration" alt="Typing Animation" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=1500&pause=1500&color=00FF00&center=true&vCenter=true&width=1200&lines=On+a+journey+to+become+Full+Stack+Developer+and+understanding+AI;Learning+%26+Building+with+Artificial+Intelligence+(AI)" alt="Typing Animation" />
   </h1>
-  <p>
-    <img src="https://img.shields.io/badge/Focus-Web%20Development%20%26%20AI-0078D4?style=flat" alt="Focus" />
-    <img src="https://img.shields.io/badge/Open%20To-Opportunities-28a745?style=flat" alt="Status" />
-  </p>
 </div>
 
 ## About Me
-
-I am a dedicated Full Stack Developer with a strong foundation in Data Structures, Algorithms, and modern web technologies. I specialize in building scalable, efficient web applications with a focus on clean design and performance.
-
-**Key Strengths:**
-- Full-stack web application development
-- Problem-solving and algorithmic thinking
-- Cloud deployment and DevOps practices
-- Attention to detail and code quality
-
----
-
+<i>
+I am a BCA student committed to bridging the gap between theoretical computer science and practical, intelligent software solutions. My journey is focused on mastering Data Structures and Algorithms to build a strong foundation, while simultaneously exploring how AI can transform modern web development. I believe in continuous growth, writing clean code, and building projects from scratch to enhance my Skils.
+</i>
 ## Technical Skills
 
 ### Programming Languages
