@@ -1,123 +1,101 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=35&pause=1000&color=3776AB&center=true&vCenter=true&width=700&lines=Hi,+I'm+Gagandeep+Singh+👨‍💻;Full+Stack+Developer;AI+Enthusiast;Problem+Solver" alt="Typing SVG" />
-</div>
-
-<div align="center">
+  <h1>Gagandeep Singh</h1>
+  <p><strong>Full Stack Developer | AI Enthusiast | Problem Solver</strong></p>
   <p>
-    <img src="https://img.shields.io/badge/Focus-Web%20Development%20%26%20AI-blue?style=for-the-badge" alt="Focus" />
-    <img src="https://img.shields.io/badge/Location-India-red?style=for-the-badge" alt="Location" />
-    <img src="https://img.shields.io/badge/Status-Open%20to%20Opportunities-brightgreen?style=for-the-badge" alt="Status" />
+    <img src="https://img.shields.io/badge/Focus-Web%20Development%20%26%20AI-0078D4?style=flat" alt="Focus" />
+    <img src="https://img.shields.io/badge/Open%20To-Opportunities-28a745?style=flat" alt="Status" />
   </p>
 </div>
 
 ---
 
-## 👋 About Me
+## About Me
 
-I'm a passionate **Full Stack Developer** and **AI enthusiast** dedicated to crafting intelligent, scalable web applications. I love solving complex problems and staying at the forefront of web technologies.
+I am a dedicated Full Stack Developer with a strong foundation in Data Structures, Algorithms, and modern web technologies. I specialize in building scalable, efficient web applications with a focus on clean code and best practices. Passionate about leveraging AI to solve real-world problems and create meaningful user experiences.
 
-### 🎯 Currently Working On
-- 🧠 **Data Structures & Algorithms** - Mastering problem-solving
-- 🌐 **Full Stack Development** - Building modern, responsive applications
-- 🤖 **AI Integration** - Leveraging AI to enhance user experiences
-- ☁️ **Cloud Technologies** - Deploying scalable solutions
-
----
-
-## 🛠️ Tech Stack
-
-### 💬 Languages
-<div>
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-</div>
-
-### 🎨 Frontend
-<div>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Responsive%20Design-FF6B6B?style=for-the-badge&logo=responsive&logoColor=white" alt="Responsive" />
-</div>
-
-### 🔧 Backend & Database
-<div>
-  <img src="https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white" alt="Express" />
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-</div>
-
-### 🚀 Tools & Deployment
-<div>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
-  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
-</div>
+**Key Strengths:**
+- Full-stack web application development
+- Problem-solving and algorithmic thinking
+- Cloud deployment and DevOps practices
+- Attention to detail and code quality
 
 ---
 
-## 📊 GitHub Statistics
+## Technical Skills
+
+### Programming Languages
+![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+
+### Frontend Development
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+
+### Backend & Databases
+![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=flat-square&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=flat-square&logo=mysql&logoColor=white)
+
+### DevOps & Cloud
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+
+### Tools & Platforms
+![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=flat-square&logo=visual-studio-code&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+
+---
+
+## GitHub Statistics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=its-gagandeep-singh&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=its-gagandeep-singh&layout=compact&langs_count=8&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=its-gagandeep-singh&show_icons=true&theme=github_dark&hide=contribs&count_private=true&hide_rank=false" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=its-gagandeep-singh&layout=compact&theme=github_dark&langs_count=8" alt="Top Languages" width="48%" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=its-gagandeep-singh&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=its-gagandeep-singh&theme=github-dark&hide_border=true" alt="GitHub Streak" width="50%" />
 </div>
 
 ---
 
-## 🎓 Learning & Growth
+## Professional Development
 
-I'm constantly learning and improving my skills. Here's what I'm focused on:
-- ✅ Advanced JavaScript & React patterns
-- ✅ Backend architecture & system design
-- ✅ Cloud deployment & DevOps
-- ✅ Machine Learning fundamentals
+**Currently Focused On:**
+- Advanced system design and architecture
+- Full-stack JavaScript/TypeScript development
+- Cloud technologies (AWS, Azure)
+- AI/ML integration in web applications
+
+**Continuous Learning:**
+- FAANG-level problem solving
+- Microservices architecture
+- DevOps best practices
+- Modern frontend frameworks
 
 ---
 
-## 📫 Connect With Me
+## Connect With Me
 
 <div align="center">
-  <a href="https://linkedin.com/in/your-linkedin" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:your.email@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://github.com/its-gagandeep-singh" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="https://twitter.com/your-twitter" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
-  </a>
+  
+| Platform | Link |
+|----------|------|
+| **LinkedIn** | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin) |
+| **Email** | [![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:iam.gagandeep.singh@gmail.com) |
+| **GitHub** | [![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](https://github.com/its-gagandeep-singh) |
+
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
-</div>
-
-<div align="center">
-  <p>
-    <em>💻 Building the future, one line of code at a time</em>
-  </p>
-  <p>
-    <img src="https://komarev.com/ghpvc/?username=its-gagandeep-singh&color=blue&style=flat-square&label=Profile%20Views" alt="Profile Views" />
-  </p>
-</div>
-
----
-
-<div align="center">
-  <p>⭐ If you find my profile interesting, please consider giving it a star!</p>
+  <img src="https://komarev.com/ghpvc/?username=its-gagandeep-singh&color=0078D4&style=flat-square&label=Profile%20Views" alt="Profile Views" />
 </div>
