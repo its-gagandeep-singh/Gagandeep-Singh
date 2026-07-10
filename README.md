@@ -54,14 +54,11 @@ I am a dedicated Full Stack Developer with a strong foundation in Data Structure
 ---
 
 ## 📊 GitHub Activity
-
 <div align="center">
   <a href="https://github.com/its-gagandeep-singh">
-    <img src="https://github-readme-stats.vercel.app/api?username=its-gagandeep-singh&show_icons=true&theme=react&hide_border=true" alt="Gagandeep's GitHub Stats" height="180" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=its-gagandeep-singh&layout=donut&theme=react&hide_border=true" alt="Gagandeep's Core Activity Breakdown" height="180" />
+    <img src="https://metrics.lecoq.io/its-gagandeep-singh?base=0&plugin_languages=1&plugin_languages=wheel=1" alt="Gagandeep's Activity Wheel" width="400" />
   </a>
 </div>
-
 ---
 
 ## Professional Development
