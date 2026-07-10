@@ -56,7 +56,9 @@ I am a dedicated Full Stack Developer with a strong foundation in Data Structure
 ## 📊 GitHub Activity
 
 <div align="center">
-  <img src="https://github-contribution-stats.vercel.app/api?username=its-gagandeep-singh&theme=github_dark" alt="GitHub Contribution Stats" />
+  <a href="https://github.com/its-gagandeep-singh">
+    <img src="https://activity-graph.herokuapp.com/graph?username=its-gagandeep-singh&theme=github-dark&area=true&hide_title=false" alt="GitHub Contribution Graph" width="100%" />
+  </a>
 </div>
 
 ---
