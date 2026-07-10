@@ -36,14 +36,14 @@ I'm passionate about building intelligent web applications. Currently focused on
 
 ## 📊 My GitHub Stats
 <br>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=dark&hide_border=true" alt="GitHub Streak"/>   
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=its-gagandeep-singh&theme=dark&hide_border=true" alt="GitHub Streak"/>   
 
 ---
 
 ## 📫 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_ACTUAL_LINKEDIN_USERNAME)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:YOUR_ACTUAL_EMAIL@gmail.com)
 
 ---
 
