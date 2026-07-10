@@ -56,12 +56,15 @@ I am a dedicated Full Stack Developer with a strong foundation in Data Structure
 ## GitHub Statistics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=its-gagandeep-singh&show_icons=true&theme=github_dark&hide=contribs&count_private=true&hide_rank=false" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=its-gagandeep-singh&layout=compact&theme=github_dark&langs_count=8" alt="Top Languages" width="48%" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=its-gagandeep-singh&show_icons=true&theme=dark&hide=contribs&count_private=true" alt="GitHub Stats" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=its-gagandeep-singh&theme=github-dark&hide_border=true" alt="GitHub Streak" width="50%" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=its-gagandeep-singh&layout=compact&theme=dark&langs_count=8" alt="Top Languages" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=its-gagandeep-singh&theme=dark" alt="GitHub Streak" />
 </div>
 
 ---
