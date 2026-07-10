@@ -56,21 +56,22 @@ I am a dedicated Full Stack Developer with a strong foundation in Data Structure
 ## GitHub Statistics
 
 <div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=its-gagandeep-singh&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&line_height=27)
-
+  <a href="https://github.com/its-gagandeep-singh">
+    <img alt="Gagandeep's GitHub Stats" src="https://raw.githubusercontent.com/its-gagandeep-singh/its-gagandeep-singh/master/github-metrics.svg" width="100%" />
+  </a>
 </div>
 
+<br/>
+
 <div align="center">
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=its-gagandeep-singh&theme=github_dark&layout=compact&langs_count=10)
-
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=its-gagandeep-singh&show_icons=true&count_private=true&theme=github_dark" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=its-gagandeep-singh&layout=compact&theme=github_dark" alt="Top Languages" />
 </div>
 
+<br/>
+
 <div align="center">
-
-![Streak Stats](https://github-readme-streak-stats.herokuapp.com?user=its-gagandeep-singh&theme=github-dark&hide_border=true&stroke=0000FF)
-
+  <img src="https://streak-stats.demolab.com?user=its-gagandeep-singh&theme=github-dark" alt="GitHub Streak Stats" />
 </div>
 
 ---
