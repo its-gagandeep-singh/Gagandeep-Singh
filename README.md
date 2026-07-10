@@ -53,29 +53,6 @@ I am a dedicated Full Stack Developer with a strong foundation in Data Structure
 
 ---
 
-## GitHub Statistics
-
-<div align="center">
-  <a href="https://github.com/its-gagandeep-singh">
-    <img alt="Gagandeep's GitHub Stats" src="https://raw.githubusercontent.com/its-gagandeep-singh/its-gagandeep-singh/master/github-metrics.svg" width="100%" />
-  </a>
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=its-gagandeep-singh&show_icons=true&count_private=true&theme=github_dark" alt="GitHub Stats" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=its-gagandeep-singh&layout=compact&theme=github_dark" alt="Top Languages" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=its-gagandeep-singh&theme=github-dark" alt="GitHub Streak Stats" />
-</div>
-
----
-
 ## Professional Development
 
 **Currently Focused On:**
