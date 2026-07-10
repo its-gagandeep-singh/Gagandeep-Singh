@@ -1,13 +1,12 @@
 <div align="center">
-  <h1>Gagandeep Singh</h1>
-  <p><strong>Full Stack Developer | AI Enthusiast | Problem Solver</strong></p>
+  <h1>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&duration=1500&pause=1500&color=00FF00&center=true&vCenter=true&lines=Gagandeep+Singh;Pursuing+Full+Stack+Developer+with+AI+Integration" alt="Typing Animation" />
+  </h1>
   <p>
     <img src="https://img.shields.io/badge/Focus-Web%20Development%20%26%20AI-0078D4?style=flat" alt="Focus" />
     <img src="https://img.shields.io/badge/Open%20To-Opportunities-28a745?style=flat" alt="Status" />
   </p>
 </div>
-
----
 
 ## About Me
 
