@@ -1,9 +1,12 @@
-<h1 style="text-align: center">Gagandeep Singh</h1>
 <div align="center">
+  <h1>Gagandeep Singh</h1>
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=25&duration=3000&pause=1500&color=00E5FF&center=true&vCenter=true&width=1200&lines=My+journey+into+full+stack+development+and+AI;Learning+%26+building+with+artificial+intelligence" alt="Typing Animation" /> 
 </div>
+<div><h1></h1></div>
+
 
 ## 👤 About Me
+
 *I am a BCA student committed to bridging the gap between theoretical computer science and practical, intelligent software solutions. My journey is focused on mastering Data Structures and Algorithms to build a strong foundation, while simultaneously exploring how AI can transform modern web development. I believe in continuous growth, writing clean code, and building projects from scratch to enhance my skills.*
 
 ---
@@ -39,7 +42,7 @@
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/gagandeep-77" target="_blank">
+<a href="https://www.linkedin.com/in/YOUR-ACTUAL-LINKEDIN-USERNAME" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 <a href="mailto:gagandeep.singh54105@gmail.com">
