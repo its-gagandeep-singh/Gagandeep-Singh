@@ -1,8 +1,6 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=1500&pause=1500&color=00FF00&center=true&vCenter=true&width=1200&lines=On+a+journey+to+become+Full+Stack+Developer+and+understanding+AI;Learning+%26+Building+with+Artificial+Intelligence+(AI)" alt="Typing Animation" /> 
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=25&duration=3000&pause=1500&color=00E5FF&center=true&vCenter=true&width=1200&lines=My+journey+into+full+stack+development+and+AI;Learning+%26+building+with+artificial+intelligence" alt="Typing Animation" /> 
 </div>
-
----
 
 ## 👤 About Me
 *I am a BCA student committed to bridging the gap between theoretical computer science and practical, intelligent software solutions. My journey is focused on mastering Data Structures and Algorithms to build a strong foundation, while simultaneously exploring how AI can transform modern web development. I believe in continuous growth, writing clean code, and building projects from scratch to enhance my skills.*
