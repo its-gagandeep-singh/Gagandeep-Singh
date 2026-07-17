@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Gagandeep Singh</h1>
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=25&duration=3000&pause=1500&color=00E5FF&center=true&vCenter=true&width=1200&lines=My+journey+into+full+stack+development+and+AI;Learning+%26+building+with+artificial+intelligence" alt="Typing Animation" /> 
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=25&duration=3000&pause=1500&color=00E5FF&center=true&vCenter=true&width=1200&lines=On+a+journey+of+full+stack+development+and+AI;Learning+%26+building+with+artificial+intelligence" alt="Typing Animation" /> 
 </div>
 <div><h1></h1></div>
 
